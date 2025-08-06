@@ -1,7 +1,46 @@
-# Airplane_Crash_Analysis 
+# Airplane Crash Analysis – Power BI Dashboard
+A data-driven project that analyzes historical airplane crash data to uncover key trends, risk factors, and patterns to aid in aviation safety improvements. Built entirely in Power BI using DAX and Power Query for advanced data modeling and transformation.
 
-This Power BI project, titled Airplane Crash Analysis, presents a comprehensive examination of historical airplane crash data. The dashboard is designed to identify key trends and risk factors by analyzing crash incidents across different locations, years, aircraft models, operators, and weather conditions. Key summary metrics include 6 total crashes, 380 fatalities, an average delay of 22.50 minutes, and 2 investigations, providing a high-level view of the data.
+# Key Highlights
+Total Crashes: 6<br>
+Total Fatalities: 380<br>
+Average Delay: 22.50 minutes<br>
+Investigations Conducted: 2<br>
 
-The interactive visualizations in the report allow users to explore crashes by location (e.g., New York, Delhi, London), aircraft type (such as Cessna 172, Airbus A320, Wright Flyer), and flight route (cargo vs. domestic). It also highlights crashes by year—with 1971 showing the highest incidents—and evaluates the impact of weather conditions like fog, snow, and storms on average flight delays. Users can filter the data using slicers for year, location, weather, and operator (military, commercial, cargo) to gain more specific insights.
+# Dashboard Features
+-Crash Analysis by Location<br>
+Major cities: New York, Delhi, London<br>
 
-The purpose of this dashboard is to help aviation analysts, safety officers, and decision-makers better understand factors contributing to airplane crashes. By visualizing and analyzing the data, the project aims to support proactive safety measures, improve operational planning, and reduce future aviation risks. The entire analysis is built using Power BI, incorporating both DAX and Power Query for data modeling and transformation.
+-Aircraft Type Breakdown<br>
+Examples: Cessna 172, Airbus A320, Wright Flyer<br>
+
+-Crashes by Year<br>
+1971 recorded the highest number of crashes<br>
+
+-Weather Conditions Impact<br>
+Assesses fog, snow, and storm effects on flight delays<br>
+
+-Flight Route Comparison<br>
+Analyzes cargo vs domestic flight crashes<br>
+
+# Operator Type Filter
+Filter by Military, Commercial, or Cargo operators<br>
+
+# Interactive Filtering Capabilities
+Users can dynamically explore data using slicers for:<br>
+
+-Year<br>
+-Location<br>
+-Weather Conditions<br>
+-Operator Type<br>
+
+# Project Purpose
+*Help aviation analysts and safety officers identify root causes and contributing factors of airplane crashes<br>
+*Provide insights for risk reduction, safety planning, and policy-making<br>
+*Enable proactive measures in aviation operations and route safety evaluations<br>
+
+# Tools & Technologies Used
+-Power BI Desktop<br>
+-DAX (Data Analysis Expressions)<br>
+-Power Query (M Language)<br>
+
