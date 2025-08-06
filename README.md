@@ -1,1 +1,7 @@
-# Airplane_Crash_Analysis
+# Airplane_Crash_Analysis 
+
+This Power BI project, titled Airplane Crash Analysis, presents a comprehensive examination of historical airplane crash data. The dashboard is designed to identify key trends and risk factors by analyzing crash incidents across different locations, years, aircraft models, operators, and weather conditions. Key summary metrics include 6 total crashes, 380 fatalities, an average delay of 22.50 minutes, and 2 investigations, providing a high-level view of the data.
+
+The interactive visualizations in the report allow users to explore crashes by location (e.g., New York, Delhi, London), aircraft type (such as Cessna 172, Airbus A320, Wright Flyer), and flight route (cargo vs. domestic). It also highlights crashes by year—with 1971 showing the highest incidents—and evaluates the impact of weather conditions like fog, snow, and storms on average flight delays. Users can filter the data using slicers for year, location, weather, and operator (military, commercial, cargo) to gain more specific insights.
+
+The purpose of this dashboard is to help aviation analysts, safety officers, and decision-makers better understand factors contributing to airplane crashes. By visualizing and analyzing the data, the project aims to support proactive safety measures, improve operational planning, and reduce future aviation risks. The entire analysis is built using Power BI, incorporating both DAX and Power Query for data modeling and transformation.
